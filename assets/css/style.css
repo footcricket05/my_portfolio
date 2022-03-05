@@ -337,6 +337,7 @@
       bottom: var(--m-2-5);
       left: 0;
       width: 100%;
+      overflow-x: hidden
     }
     .mouse-wrapper
     {
@@ -345,6 +346,7 @@
       margin: auto;
       max-width: 100px;
       text-align: center;
+      overflow-x: hidden
     }
     @keyframes ani-mouse
     {
@@ -375,6 +377,7 @@
       margin-top: var(--m-0-75);
       border-radius: var(--border-radius);
       position: relative;
+      overflow-x: hidden
     }
     .mouse .wheel 
     {
@@ -387,6 +390,7 @@
       left: 40%;
       display: block;
       animation: ani-mouse 2s linear infinite;
+      overflow-x: hidden
     }
     /*========== About ==========*/
     .about-img
