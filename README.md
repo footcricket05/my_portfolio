@@ -38,7 +38,7 @@ The projects section showcases some of my personal and professional projects, in
 **4. Contact**
 The contact section provides a form to get in touch with me, as well as links to my social media profiles and email address.
 
-**5. Deployment**
+## Deployment
 The website is hosted on GitHub Pages, which allows for easy deployment and hosting of static websites directly from a GitHub repository.
 
 To deploy the website, follow these steps:
