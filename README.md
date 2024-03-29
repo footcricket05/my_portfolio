@@ -2,7 +2,7 @@
 Welcome to my portfolio! This repository contains the source code for my personal website, which serves as a showcase of my skills, projects, and experience.
 
 ## Live Demo 🚀
-You can visit the live website at [My Portfolio](https://shauryasrinet.live/)
+You can visit the live website at [My Portfolio](https://shauryasrinet.netlify.app/)
 ![image](https://user-images.githubusercontent.com/93007427/167266674-497946a1-fec2-49be-8d56-0fc61c161106.png)
 
 ## Technologies Used 🛠️
